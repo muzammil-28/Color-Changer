@@ -15,5 +15,7 @@ Built with **HTML, CSS, and JavaScript**, this project is lightweight, responsiv
 - **JavaScript**  
 
 ## 🚀 Live Demo
-Check it out live here: 
+Check it out live here: muzammil-colorchanger.netlify.app
 
+## Author
+Muzammil Islam
