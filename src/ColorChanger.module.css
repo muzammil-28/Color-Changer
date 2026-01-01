@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    width: 100%;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+}
+.colorSection{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 40px;
+}
+.colorSection button{
+    padding: 7px 17px;
+    background-color: purple;
+    color: white;
+    border: 1px solid black;
+}
+
+.colorSection form input[type="text"]
+{
+    padding: 7px;
+}
+.colorSection form input[type="submit"]
+{
+    padding: 9px 17px;
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    margin-left: 5px;
+}
+.colorSection .resetButton{
+    padding: 9px 17px;
+    margin-left: 2px;
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+}
+.currentColor{
+    width: 300px;
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
